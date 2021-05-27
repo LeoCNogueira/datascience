@@ -24,7 +24,7 @@ Please find below my main projects:
 * **Finance:** http://bit.ly/portifolio_finance
 * **Marketing & Sales:** http://bit.ly/portifolio_marketing
 * **Education:** https:
-* **CyberSecurity:** https:
+* **CyberSecurity:** http://bit.ly/portifolio_cybersecurity
 * **General:** http://bit.ly/portifolio_general
 
 
