@@ -25,7 +25,7 @@ Please find below my main projects:
 * **Marketing & Sales:** https:
 * **Education:** https:
 * **CyberSecurity:** https:
-* **General:** https
+* **General:** http://bit.ly/portifolio_general
 
 
 ---
