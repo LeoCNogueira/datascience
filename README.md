@@ -22,7 +22,7 @@ My credentials include a Post Graduation in Data Science & IA from PUC, a MBA in
 Please find below my main projects:
 
 * **Finance:** http://bit.ly/portifolio_finance
-* **Marketing & Sales:** https:
+* **Marketing & Sales:** http://bit.ly/portifolio_marketing
 * **Education:** https:
 * **CyberSecurity:** https:
 * **General:** http://bit.ly/portifolio_general
